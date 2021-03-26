@@ -37,6 +37,7 @@
             "active": true
         }
     },
-    "updateDate": "26/Mar/2021",
-    "version": "0.0.1"
+    "updateDate": "14/Mar/2021",
+    "updateDateVersion": "0.01",
+    "appVersion": "0.0.1"
 }
