@@ -1,6 +1,8 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.0.3] - [22/Apr/2021]
+- Minor changes
 ## [1.0.2] - [19/Apr/2021]
 - Screen viewport fixes
 ## [1.0.1] - [18/Apr/2021]
