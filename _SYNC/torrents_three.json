@@ -1,7 +1,7 @@
 [
     [
         {
-            "url": "https://1337x.gd",
+            "url": "https://1337x.tp",
             "active": true,
             "namePlain": "1337X",
             "name": "w1337x",
@@ -9,7 +9,7 @@
             "flag": "globe"
         },
         {
-            "url": "https://thehiddenbay.com",
+            "url": "https://thehiddenbay.net",
             "active": true,
             "namePlain": "ThePirateBay",
             "name": "thepiratebay",
@@ -17,7 +17,7 @@
             "flag": "globe"
         },
         {
-            "url": "https://www.limetorrents.info",
+            "url": "https://www.limetorrents.net",
             "active": true,
             "namePlain": "LimeTorrents",
             "name": "limetorrents",
