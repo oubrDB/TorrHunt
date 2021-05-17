@@ -1,7 +1,7 @@
 [
     [
         {
-            "url": "https://1337x.tp",
+            "url": "https://1337x.to",
             "active": true,
             "namePlain": "1337X",
             "name": "w1337x",
@@ -9,7 +9,7 @@
             "flag": "globe"
         },
         {
-            "url": "https://thehiddenbay.net",
+            "url": "https://thehiddenbay.com",
             "active": true,
             "namePlain": "ThePirateBay",
             "name": "thepiratebay",
@@ -17,7 +17,7 @@
             "flag": "globe"
         },
         {
-            "url": "https://www.limetorrents.net",
+            "url": "https://www.limetorrents.info",
             "active": true,
             "namePlain": "LimeTorrents",
             "name": "limetorrents",
@@ -71,14 +71,6 @@
             "name": "cpasbien",
             "sup": "",
             "flag": "france"
-        },
-        {
-            "url": "https://www.google.com",
-            "active": true,
-            "namePlain": "Google",
-            "name": "Google",
-            "sup": "",
-            "flag": "globe"
         }
     ],
     [
