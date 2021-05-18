@@ -1,7 +1,7 @@
 [
     [
         {
-            "url": "https://1337x.gd",
+            "url": "https://1337x.to",
             "active": true,
             "namePlain": "1337X",
             "name": "w1337x",
@@ -17,7 +17,7 @@
             "flag": "globe"
         },
         {
-            "url": "https://www.limetorrents.net",
+            "url": "https://www.limetorrents.info",
             "active": true,
             "namePlain": "LimeTorrents",
             "name": "limetorrents",
@@ -71,14 +71,6 @@
             "name": "cpasbien",
             "sup": "",
             "flag": "france"
-        },
-        {
-            "url": "https://www.google.com",
-            "active": true,
-            "namePlain": "Google",
-            "name": "google",
-            "sup": "",
-            "flag": "globe"
         }
     ],
     [
