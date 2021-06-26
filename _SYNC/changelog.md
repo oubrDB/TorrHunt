@@ -1,10 +1,15 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [1.0.6] - [26/Jun/2021]
+- Added the ability to disable ads, by upgrading to the pro version
+- The app is now more optimized for bigger screens (tablets, for instance)
+- Minor fixes
+- Upgraded the App engine to the latest version
 ## [1.0.5] - [06/Jun/2021]
 - A new search provider is available : TorrentGalaxy
 - You can now read torrent -> [description / list of files / comments / list of trackers / info hash] directly from the app;
-If available, torrent -> [cover image / category & subcategory / movie,tv genres & summary / uploader / downloads / language] are also included
+If available, torrent -> [cover image / category & subcategory / movie, TV genres & summary / uploader / downloads / language] are also included
 - Few visual changes
 ## [1.0.4] - [21/May/2021]
 - You can now order (arrange) sources/providers the way you want
