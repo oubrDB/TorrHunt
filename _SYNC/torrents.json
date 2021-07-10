@@ -6,37 +6,37 @@
         },
         "thepiratebay": {
             "url": "https://yahoo.com",
-            "active": false
+            "active": true
         },
         "limetorrents": {
             "url": "https://www.yahoo.info",
-            "active": false
+            "active": true
         },
         "yts": {
             "url": "https://yahoo.mx",
-            "active": false
+            "active": true
         },
         "eztv": {
             "url": "https://yahoo.re",
-            "active": false
+            "active": true
         },
         "ettv": {
             "url": "https://www.yahoo.com",
-            "active": false
+            "active": true
         },
         "nyaa": {
             "url": "https://yahoo.si",
-            "active": false
+            "active": true
         },
         "oxtorrent": {
             "url": "https://www.yahoo.co",
-            "active": false
+            "active": true
         },
         "cpasbien": {
             "url": "https://www.yahoo.sh",
-            "active": false
+            "active": true
         }
     },
-    "DBversion": "1.0.1",
+    "DBversion": "1.0.5",
     "appVersion": "1.0.6"
 }
