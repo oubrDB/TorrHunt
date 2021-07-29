@@ -1,11 +1,15 @@
-# Changelog
+# ChangeLog
 All notable changes to this project will be documented in this file.
 
+## [1.0.7] - [29/Jul/2021]
+- ETTV, YTS, TorrentGalaxy, are now working again
+- Some visual tweaks
 ## [1.0.6] - [26/Jun/2021]
 - Added the ability to disable ads, by upgrading to the pro version
 - The app is now more optimized for bigger screens (tablets, for instance)
 - Minor fixes
 - Upgraded the App engine to the latest version
+- Changed the size of the ad banner
 ## [1.0.5] - [06/Jun/2021]
 - A new search provider is available : TorrentGalaxy
 - You can now read torrent -> [description / list of files / comments / list of trackers / info hash] directly from the app;
