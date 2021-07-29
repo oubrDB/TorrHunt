@@ -17,7 +17,7 @@
             "flag": "globe"
         },
         {
-            "url": "https://torrentgalaxy.to",
+            "url": "https://torrentgalaxy.mx",
             "active": true,
             "namePlain": "TorrentGalaxy",
             "name": "torrentgalaxy",
@@ -83,8 +83,8 @@
     ],
     [
         {
-            "DBversion": "1.0.3",
-            "APPversion": "1.0.6"
+            "DBversion": "1.0.4",
+            "APPversion": "1.0.7"
         }
     ]
 ]
